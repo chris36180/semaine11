@@ -1,0 +1,84 @@
+html{
+    background-image:url(../img/nombre.png);
+    margin-top:-20px ;
+	background-repeat:no-repeat;
+}
+
+
+
+#proposition {
+    width: 500px;
+    margin: 390px;
+    height: 30px;
+    padding-left: 5px;
+}
+#bouton {
+   background: #34d997;
+  background-image: -webkit-linear-gradient(top, #34d997, #2980b9);
+  background-image: -moz-linear-gradient(top, #34d997, #2980b9);
+  background-image: -ms-linear-gradient(top, #34d997, #2980b9);
+  background-image: -o-linear-gradient(top, #34d997, #2980b9);
+  background-image: linear-gradient(to bottom, #34d997, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+    height: 50px;
+}
+#bouton:hover {
+   background: #34d997;
+  background-image: -webkit-linear-gradient(top, #34d997, #2980b9);
+  background-image: -moz-linear-gradient(top, #34d997, #2980b9);
+  background-image: -ms-linear-gradient(top, #34d997, #2980b9);
+  background-image: -o-linear-gradient(top, #34d997, #2980b9);
+  background-image: linear-gradient(to bottom, #34d997, #2980b9);
+  text-decoration: none;
+}
+#resultat {
+
+    margin: 20px;
+    line-height: 20px;
+    padding-left: 5px;
+    background: #c9d0d1;
+  background-image: -webkit-linear-gradient(top, #c9d0d1, #c9d0d1);
+  background-image: -moz-linear-gradient(top, #c9d0d1, #c9d0d1);
+  background-image: -ms-linear-gradient(top, #c9d0d1, #c9d0d1);
+  background-image: -o-linear-gradient(top, #c9d0d1, #c9d0d1);
+  background-image: linear-gradient(to bottom, #c9d0d1, #c9d0d1);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #827982;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+#proposition {
+  background: #34d997;
+  background-image: -webkit-linear-gradient(top, #34d997, #2980b9);
+  background-image: -moz-linear-gradient(top, #34d997, #2980b9);
+  background-image: -ms-linear-gradient(top, #34d997, #2980b9);
+  background-image: -o-linear-gradient(top, #34d997, #2980b9);
+  background-image: linear-gradient(to bottom, #34d997, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+#proposition:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
