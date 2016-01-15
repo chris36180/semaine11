@@ -1,10 +1,14 @@
 html{
     background-image:url(../img/fond.jpg);
     margin-top:-20px ;
-	background-repeat:repeat;
+	background-repeat:no-repeat;
 	color:orange;
 }
-button{
-  
-  
+h1{
+      background-color: lightgrey;
+      color:red;
+      border:6px solid white ;
+	  border-radius: 10px ;
+      height:100px ;
+      position:float;
 }
