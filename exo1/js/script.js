@@ -8,7 +8,7 @@ function verifier() {
         $resultat.innerHTML = "Insuffisant !";
     }
     if ($proposition.value == reponse) {
-        $resultat.innerHTML = "Juste ce qu'il faut";
+        $resultat.innerHTML = "BINGO";
     }
     if ($proposition.value > reponse) {
         $resultat.innerHTML = "Trop !";
